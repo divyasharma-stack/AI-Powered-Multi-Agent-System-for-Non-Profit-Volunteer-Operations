@@ -1,0 +1,6 @@
+# Libraries for Google Sheets and Data Handling
+gspread
+google-auth
+
+# Library for the Gemini Agent
+google-genai

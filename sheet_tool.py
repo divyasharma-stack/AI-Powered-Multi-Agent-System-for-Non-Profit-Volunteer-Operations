@@ -115,4 +115,4 @@ if __name__ == "__main__":
         print("\nTest 2 Success: Check your Google Sheet! A new row should be added with 'sheet-fix-test@example.com'.")
     else:
         print(f"Test 2 Failed: Error: {write_result.get('error')}")
-        print("\nTest 2 Failed: Please check your service_account.json and sheet sharing permissions.")
+        print("\nTest 2 Failed: Please check your service account and sheet sharing permissions.")
